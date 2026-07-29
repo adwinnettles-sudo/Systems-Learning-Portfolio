@@ -35,4 +35,4 @@ Using both tools together made it easier to determine whether an issue was relat
 
 ## References
 
-- curl Documentation
+Windows Learn - cURL
