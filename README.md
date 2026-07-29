@@ -1,1 +1,0 @@
-## One thing I'd like to do going forward is treat each repository like a software release. Once you save it, we consider it v1.0 and move on. If, six months from now, you've learned something new, we'll release a v1.1 or v2.0 rather than endlessly polishing. That keeps the project moving and documents your growth over time.
